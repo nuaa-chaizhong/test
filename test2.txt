@@ -1,2 +1,10 @@
 int main
+<<<<<<< HEAD
 111
+=======
+<<<<<<< Updated upstream
+=======
+111
+222
+>>>>>>> Stashed changes
+>>>>>>> newTest
