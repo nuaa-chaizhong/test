@@ -1,1 +1,6 @@
 int main
+<<<<<<< Updated upstream
+=======
+111
+222
+>>>>>>> Stashed changes
